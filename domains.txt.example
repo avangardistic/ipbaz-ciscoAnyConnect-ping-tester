@@ -1,0 +1,22 @@
+# لیست دامنه‌های Cisco AnyConnect
+# هر خط یک دامنه. # برای کامنت.
+#
+# استفاده:
+#   1. این فایل را به domains.txt کپی کنید
+#   2. دامنه‌ها را ویرایش کنید
+#   3. python run.py اجرا کنید (از domains.txt می‌خواند)
+#
+# یا از دستورات خودکار:
+#   python run.py discover --save
+#   python run.py add-domain mcis15.apibaz.org
+
+# دامنه‌های پایدار IPBAZ
+nlwin.apibaz.org
+mcis6.apibaz.org
+mcis4.apibaz.org
+tci.apibaz.org
+shatel1.apibaz.org
+
+# دامنه‌های تازه کشف‌شده
+# mcis15.apibaz.org
+# mcipro2.apibaz.org

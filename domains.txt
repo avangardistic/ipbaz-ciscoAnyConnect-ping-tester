@@ -1,0 +1,19 @@
+﻿# لیست دامنه‌های Cisco AnyConnect
+# هر خط یک دامنه. # برای کامنت.
+
+mcis1.apibaz.org
+mcis2.apibaz.org
+mcis3.apibaz.org
+mcis4.apibaz.org
+mcis5.apibaz.org
+mcis6.apibaz.org
+mcis7.apibaz.org
+mcis8.apibaz.org
+mcis9.apibaz.org
+mcis10.apibaz.org
+mcipro.apibaz.org
+shatel1.apibaz.org
+tci.apibaz.org
+nlwin.apibaz.org
+mcis15.apibaz.org
+mcis12.apibaz.org

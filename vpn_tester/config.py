@@ -12,9 +12,9 @@ ENV_FILE = PROJECT_ROOT / ".env"
 DOMAINS_FILE = PROJECT_ROOT / "domains.txt"
 
 DEFAULT_DOMAINS: tuple[str, ...] = (
-    "mcis1.apibaz.org", "example.invalid", "mcis3.apibaz.org",
-    "mcis4.apibaz.org", "example.invalid", "mcis6.apibaz.org",
-    "mcis7.apibaz.org", "example.invalid", "mcis9.apibaz.org",
+    "mcis1.apibaz.org", "mcis2.apibaz.org", "mcis3.apibaz.org",
+    "mcis4.apibaz.org", "mcis2.apibaz.org", "mcis6.apibaz.org",
+    "mcis7.apibaz.org", "mcis2.apibaz.org", "mcis9.apibaz.org",
     "mcis10.apibaz.org", "mcipro.apibaz.org", "shatel1.apibaz.org",
     "tci.apibaz.org", "nlwin.apibaz.org",
 )
@@ -146,3 +146,4 @@ def load_config(require_credentials: bool = True) -> Config:
         youtube_timeout=_read_int("YOUTUBE_TIMEOUT", 12),
         retries=_read_int("VPN_RETRIES", 0),
     )
+

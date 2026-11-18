@@ -1,8 +1,0 @@
-﻿# بهترین سرورهای Cisco AnyConnect (به ترتیب سرعت)
-# تاریخ: 2026-11-17T18:20:32
-# موفق: 4/5
-
- 1. mcis4.apibaz.org          8.5s  egress=94.118.219.66
- 2. tci.apibaz.org            8.8s  egress=94.118.213.2
- 3. nlwin.apibaz.org         10.1s  egress=94.118.219.2
- 4. mcis6.apibaz.org         10.3s  egress=94.118.219.2

@@ -1,0 +1,11 @@
+[allowlist]
+regexes = [
+  "mcis[0-9]+\\.apibaz\\.org",
+  "mcipro\\.apibaz\\.org",
+  "shatel1\\.apibaz\\.org",
+  "tci\\.apibaz\\.org",
+  "nlwin\\.apibaz\\.org"
+]
+paths = [
+  "vpn_tester/config.py"
+]
